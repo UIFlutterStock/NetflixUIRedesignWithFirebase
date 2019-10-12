@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056546120049",
+    "firebase_url": "https://netflixuiredesignwithfir-38d4b.firebaseio.com",
+    "project_id": "netflixuiredesignwithfir-38d4b",
+    "storage_bucket": "netflixuiredesignwithfir-38d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056546120049:android:c21a3ae823a2c0b05456d0",
+        "android_client_info": {
+          "package_name": "com.netflixuiredesignwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056546120049-qt5n13daiaq02nfcji0uvfhpgsmag52c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FPV2bihrQ20KENZtR1LgGgn0vXvU7kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056546120049-qt5n13daiaq02nfcji0uvfhpgsmag52c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
